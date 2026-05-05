@@ -1,2 +1,3 @@
 This is file 2
 File 2 is updated
+Change from branch1
